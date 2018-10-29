@@ -1,2 +1,2 @@
 # homegrown-data-science
-A repo for the RV Data Accelerator
+A repo for the RV Data Science Accelerator
